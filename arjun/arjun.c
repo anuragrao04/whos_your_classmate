@@ -16,6 +16,7 @@ int max(int a, int b)
     return (a > b)? a : b; 
 } 
 
+// To create a new student node for the bin  tree.
 tree_node_t* newNode(char *name, char*srn, float cgpa) 
 { 
     tree_node_t* node = (tree_node_t*) malloc(sizeof(tree_node_t)); 
@@ -76,6 +77,7 @@ int getBalance(tree_node_t *N)
     return height(N->left) - height(N->right); 
 }
 
+// Node is the root of the bin tree. Input the name, srn and cgpa for each student when inserting.
 tree_node_t* insert(tree_node_t* node, char *name, char *srn, float cgpa) 
 { 
     /* 1.  Perform the normal BST insertion */
