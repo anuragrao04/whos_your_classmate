@@ -128,12 +128,12 @@ tree_node_t* insert(tree_node_t* node, char *name, char *srn, float cgpa)
     return node; 
 } 
 
-void preOrder(tree_node_t *root) 
+void roll_list(tree_node_t *root) 
 { 
     if(root != NULL) 
     { 
-        printf("%f ", root->cgpa); 
-        preOrder(root->left); 
-        preOrder(root->right); 
+        printf("%s ", root->srn); 
+        roll_list(root->left); 
+        roll_list(root->right); 
     } 
 } 
