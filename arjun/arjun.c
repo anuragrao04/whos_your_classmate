@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "../definitions.h"
+#define COUNT 10
 
 // A utility function to get the height of the tree 
 int height(tree_node_t *N) 
@@ -77,63 +78,126 @@ int getBalance(tree_node_t *N)
     return height(N->left) - height(N->right); 
 }
 
-// Node is the root of the bin tree. Input the name, srn and cgpa for each student when inserting.
-tree_node_t* insert(tree_node_t* node, char *name, char *srn, float cgpa) 
+// The parameters are the root node of class and student node
+tree_node_t* insert(tree_node_t* root, tree_node_t* student) 
 { 
     /* 1.  Perform the normal BST insertion */
-    if (node == NULL) 
-        return(newNode(name, srn, cgpa)); 
-  
-    if (cgpa <= node->cgpa) 
-        node->left  = insert(node->left, name, srn, cgpa); 
-    else if (cgpa > node->cgpa) 
-        node->right = insert(node->right, name, srn, cgpa); 
+    if (root == NULL) 
+        return(student); 
+
+    if (student->cgpa <= root->cgpa) 
+        root->left  = insert(root->left, student); 
+    else if (student->cgpa > root->cgpa) 
+        root->right = insert(root->right, student); 
     else // Equal cgpas are not allowed in BST 
-        return node; 
-  
-    /* 2. Update height of this ancestor node */
-    node->height = 1 + max(height(node->left), height(node->right)); 
-  
+        return root; 
+
+    /* 2. Update height of this ancestor root */
+    root->height = 1 + max(height(root->left), height(root->right)); 
+
     /* 3. Get the balance factor of this ancestor 
-          node to check whether this node became 
+          root to check whether this root became 
           unbalanced */
-    int balance = getBalance(node); 
-  
-    // If this node becomes unbalanced, then 
+    int balance = getBalance(root); 
+
+    // If this root becomes unbalanced, then 
     // there are 4 cases 
-  
+
     // Left Left Case 
-    if (balance > 1 && cgpa < node->left->cgpa) 
-        return rightRotate(node); 
-  
+    if (balance > 1 && student->cgpa < root->left->cgpa) 
+        return rightRotate(root); 
+
     // Right Right Case 
-    if (balance < -1 && cgpa > node->right->cgpa) 
-        return leftRotate(node); 
-  
+    if (balance < -1 && student->cgpa > root->right->cgpa) 
+        return leftRotate(root); 
+
     // Left Right Case 
-    if (balance > 1 && cgpa > node->left->cgpa) 
+    if (balance > 1 && student->cgpa > root->left->cgpa) 
     { 
-        node->left =  leftRotate(node->left); 
-        return rightRotate(node); 
+        root->left =  leftRotate(root->left); 
+        return rightRotate(root); 
     } 
-  
+
     // Right Left Case 
-    if (balance < -1 && cgpa < node->right->cgpa) 
+    if (balance < -1 && student->cgpa < root->right->cgpa) 
     { 
-        node->right = rightRotate(node->right); 
-        return leftRotate(node); 
+        root->right = rightRotate(root->right); 
+        return leftRotate(root); 
     } 
-  
-    /* return the (unchanged) node pointer */
-    return node; 
+
+    /* return the (unchanged) root pointer */
+    return root; 
 } 
 
+
+// Display as plain text
 void roll_list(tree_node_t *root) 
 { 
     if(root != NULL) 
     { 
-        printf("%s ", root->srn); 
-        roll_list(root->left); 
         roll_list(root->right); 
+        printf("%s \n", root->srn); 
+        roll_list(root->left); 
     } 
 } 
+
+
+// Display as diagram
+void display_roll_list(tree_node_t* root, int space)
+{
+    // Base case
+    if (root == NULL)
+        return;
+ 
+    // Increase distance between levels
+    space += COUNT;
+ 
+    // Process right child first
+    display_roll_list(root->right, space);
+ 
+    // Print current node after space
+    // count
+    printf("\n");
+    for (int i = COUNT; i < space; i++)
+        printf(" ");
+    printf("%f\n", root->cgpa);
+ 
+    // Process left child
+    display_roll_list(root->left, space);
+}
+
+// Display for every class
+void roll_list_of_each_class(tree_node_t* classes[], int num_classes){
+    for(int i=0; i<num_classes; i++){
+        printf("Class %d:\n", i);
+        // roll_list(classes[i]);
+        display_roll_list(classes[i], 0);
+        printf("\n\n");
+    }
+}
+
+int main(){
+    tree_node_t *root = NULL;
+    tree_node_t *root2 = NULL;
+
+    // Example data to test
+    root = insert(root, newNode("Arjun", "PES095", 8.8));
+    root = insert(root, newNode("Arjun", "PES096", 4));
+    root = insert(root, newNode("Arjun", "PES097", 2.8));
+    root = insert(root, newNode("Arjun", "PES098", 3.8));
+    root = insert(root, newNode("Arjun", "PES099", 6.8));
+    root = insert(root, newNode("Arjun", "PES100", 7.8));
+    // display_roll_list(root, 0);
+    root2 = insert(root2, newNode("Arjun", "PES095", 8.8));
+    root2 = insert(root2, newNode("Arjun", "PES096", 4));
+    root2 = insert(root2, newNode("Arjun", "PES097", 2.8));
+    root2 = insert(root2, newNode("Arjun", "PES098", 3.8));
+    root2 = insert(root2, newNode("Arjun", "PES099", 6.8));
+    root2 = insert(root2, newNode("Arjun", "PES100", 7.8));
+   
+    tree_node_t* classes[2];
+    classes[0] = root;
+    classes[1] = root;
+
+    roll_list_of_each_class(classes, 2);
+}
