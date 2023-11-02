@@ -176,28 +176,28 @@ void roll_list_of_each_class(tree_node_t* classes[], int num_classes){
     }
 }
 
-int main(){
-    tree_node_t *root = NULL;
-    tree_node_t *root2 = NULL;
-
-    // Example data to test
-    root = insert(root, newNode("Arjun", "PES095", 8.8));
-    root = insert(root, newNode("Arjun", "PES096", 4));
-    root = insert(root, newNode("Arjun", "PES097", 2.8));
-    root = insert(root, newNode("Arjun", "PES098", 3.8));
-    root = insert(root, newNode("Arjun", "PES099", 6.8));
-    root = insert(root, newNode("Arjun", "PES100", 7.8));
-    // display_roll_list(root, 0);
-    root2 = insert(root2, newNode("Arjun", "PES095", 8.8));
-    root2 = insert(root2, newNode("Arjun", "PES096", 4));
-    root2 = insert(root2, newNode("Arjun", "PES097", 2.8));
-    root2 = insert(root2, newNode("Arjun", "PES098", 3.8));
-    root2 = insert(root2, newNode("Arjun", "PES099", 6.8));
-    root2 = insert(root2, newNode("Arjun", "PES100", 7.8));
-   
-    tree_node_t* classes[2];
-    classes[0] = root;
-    classes[1] = root;
-
-    roll_list_of_each_class(classes, 2);
-}
+// int main(){
+//     tree_node_t *root = NULL;
+//     tree_node_t *root2 = NULL;
+//
+//     // Example data to test
+//     root = insert(root, newNode("Arjun", "PES095", 8.8));
+//     root = insert(root, newNode("Arjun", "PES096", 4));
+//     root = insert(root, newNode("Arjun", "PES097", 2.8));
+//     root = insert(root, newNode("Arjun", "PES098", 3.8));
+//     root = insert(root, newNode("Arjun", "PES099", 6.8));
+//     root = insert(root, newNode("Arjun", "PES100", 7.8));
+//     // display_roll_list(root, 0);
+//     root2 = insert(root2, newNode("Arjun", "PES095", 8.8));
+//     root2 = insert(root2, newNode("Arjun", "PES096", 4));
+//     root2 = insert(root2, newNode("Arjun", "PES097", 2.8));
+//     root2 = insert(root2, newNode("Arjun", "PES098", 3.8));
+//     root2 = insert(root2, newNode("Arjun", "PES099", 6.8));
+//     root2 = insert(root2, newNode("Arjun", "PES100", 7.8));
+//    
+//     tree_node_t* classes[2];
+//     classes[0] = root;
+//     classes[1] = root;
+//
+//     roll_list_of_each_class(classes, 2);
+// }
