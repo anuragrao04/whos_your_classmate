@@ -8,6 +8,7 @@ typedef struct tree_node {
   float cgpa;
   struct tree_node* left;
   struct tree_node* right;
+  int height;
 } tree_node_t;
 
 
