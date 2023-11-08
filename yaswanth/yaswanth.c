@@ -32,3 +32,45 @@ void add_to_queue(char* student_name, char* student_srn, float student_gpa)
    current->next = new_node;
  }
 }
+
+typedef struct Node{
+    char range[20]; 
+    int count; 
+} Node;
+
+Node nodes[20];
+
+
+void array_creator() {
+
+    for(int i = 0; i < 20; i++) {
+        sprintf(nodes[i].range, "%.1f - %.1f", i * 0.5, (i * 0.5) + 0.5);
+        nodes[i].count = 0;
+    }
+  
+}
+
+void roll_list(tree_node_t *root)
+{
+   if (root != NULL)
+   { 
+       roll_list(root->right);
+       int index = (int)(root->GPA * 4);
+       nodes[index].count++;
+       roll_list(root->left);
+   }
+}
+
+void get_gpa_distribution_for_a_class(tree_node_t *classes[section])
+{   
+    if(root==NULL)
+    {
+        printf("Empty Classroom");
+    }
+    else 
+    {   
+        printf("\nGPA Distribution :");
+        array_creator();
+        
+    }
+}
