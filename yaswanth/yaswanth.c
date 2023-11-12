@@ -1,4 +1,7 @@
+#include "../anurag/anurag.h"
 #include "../definitions.h"
+#include "../pbPlots/pbPlots.h"
+#include "../pbPlots/supportLib.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -41,13 +44,6 @@ typedef struct Node {
 
 Node nodes[20];
 
-void array_creator() {
-  for (int i = 0; i < 20; i++) {
-    sprintf(nodes[i].range, "%.1f - %.1f", i * 0.5, (i * 0.5) + 0.5);
-    nodes[i].count = 0;
-  }
-}
-
 void roll_list(tree_node_t *root) {
   if (root != NULL) {
     roll_list(root->right);
@@ -61,7 +57,49 @@ void get_gpa_distribution_for_a_class(tree_node_t *_class) {
   if (_class == NULL) {
     printf("Empty Classroom");
   } else {
-    printf("\nGPA Distribution :");
-    array_creator();
+    printf("\nGPA Distribution :\n");
+    int total_students = get_total_number_of_nodes(_class);
+    tree_node_t *arr[total_students];
+    double xs[11];
+    double ys[11];
+    _Bool success;
+    int i = 0;
+    inorder(_class, arr, &i);
+
+    for (int j = 0; j < 11; j++) {
+      xs[j] = j;
+      ys[j] = 0;
+    }
+
+    for (int j = 0; j < total_students; j++) {
+      ys[(int)(arr[j]->cgpa)] += 1;
+    }
+
+    for (int i = 0; i < 11; i++) {
+      printf("%lf %lf\n", xs[i], ys[i]);
+    }
+
+    StartArenaAllocator();
+
+    RGBABitmapImageReference *canvasReference =
+        CreateRGBABitmapImageReference();
+    StringReference *errorMessage = CreateStringReference(L"", 0);
+    success = DrawScatterPlot(canvasReference, 600, 400, xs, 11, ys, 11,
+                              errorMessage);
+
+    if (success) {
+      size_t length;
+      ByteArray *pngdata = ConvertToPNG(canvasReference->image);
+      WriteToFile(pngdata, "distribution.png");
+      DeleteImage(canvasReference->image);
+    } else {
+      fprintf(stderr, "Error: ");
+      for (int i = 0; i < errorMessage->stringLength; i++) {
+        fprintf(stderr, "%c", errorMessage->string[i]);
+      }
+      fprintf(stderr, "\n");
+    }
+
+    FreeAllocations();
   }
 }

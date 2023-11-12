@@ -2,12 +2,12 @@
 import random
 from indian_names import get_full_name
 
-def generate_file(num_classes, num_students):
+def generate_file(num_classes, num_students, mean, sd):
     students = []
     for i in range(1, num_students + 1):
         name = get_full_name()  # generate a random Indian name
         srn = "PES2UG22CS" + str(i).zfill(3)  # zfill pads the string with zeros
-        gpa = round(random.gauss(7.5, 1), 2)  # round to 2 decimal places
+        gpa = round(random.gauss(mean, sd), 2)  # round to 2 decimal places
         if gpa > 10:  # ensure GPA is not greater than 10
             gpa = 10
         elif gpa < 0:  # ensure GPA is not less than 0
@@ -25,6 +25,8 @@ def generate_file(num_classes, num_students):
 # collect input from the user
 num_classes = int(input("Enter the number of classes: "))
 num_students = int(input("Enter the total number of students: "))
+mean = float(input("Enter the mean of the Gaussian distribution: "))
+sd = float(input("Enter the standard deviation of the Gaussian distribution: "))
 
 # generate the file
-generate_file(num_classes, num_students)
+generate_file(num_classes, num_students, mean, sd)

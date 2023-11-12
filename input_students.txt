@@ -1,302 +1,1802 @@
 10
-100
-Premchand Roshan
+600
+Manas Menon
 PES2UG22CS001
-7.95
-Suraj Ghoshal
+5.27
+Archana Atrey
 PES2UG22CS002
-7.78
-Rajyawardhan Maali
+5.05
+Simran Sinha
 PES2UG22CS003
-7.45
-Surekha Ganguly
+3.8
+Snigdha Upadhyay
 PES2UG22CS004
-9.99
-Sharad Khattar
-PES2UG22CS005
-8.74
-Radharaman Dwivedi
-PES2UG22CS006
-6.66
-Gudiya Chopra
-PES2UG22CS007
-6.82
-Umashankar Deshmukh
-PES2UG22CS008
-7.55
-Kiara Upadhyay
-PES2UG22CS009
-7.1
-Rajyawardhan Awasthi
-PES2UG22CS010
-9.46
-Vallabh Bhadauria
-PES2UG22CS011
-5.87
-Raghavendra Nautiyal
-PES2UG22CS012
-7.39
-Mandira Maheshwari
-PES2UG22CS013
-7.75
-Jayesh Vishwakarma
-PES2UG22CS014
-7.81
-Devasena Thakur
-PES2UG22CS015
-5.12
-Tulsi Rode
-PES2UG22CS016
-7.24
-Apoorv Choudhuri
-PES2UG22CS017
-8.93
-Rachit Jadhav
-PES2UG22CS018
-6.1
-Abha Shorey
-PES2UG22CS019
-6.99
-Sujata Nagar
-PES2UG22CS020
-8.28
-Ishwar Tomar
-PES2UG22CS021
-7.27
-Lakshman Dubey
-PES2UG22CS022
-7.12
-Sameeksha Piramal
-PES2UG22CS023
-6.92
-Deepika Wahal
-PES2UG22CS024
-6.56
-Soham Sood
-PES2UG22CS025
-8.23
-Vicky Nahar
-PES2UG22CS026
-7.39
-Tanuja Kaushik
-PES2UG22CS027
-6.9
-Rachit Seth
-PES2UG22CS028
-7.47
-Kamini Patwari
-PES2UG22CS029
-6.99
-Rishabh Kelkar
-PES2UG22CS030
-6.64
-Abhishek Tagore
-PES2UG22CS031
-9.17
-Deepika Kulkarni
-PES2UG22CS032
-6.67
-Rahul Roy
-PES2UG22CS033
-7.09
-Subodh Fadnavis
-PES2UG22CS034
-7.51
-Kanta Patnaik
-PES2UG22CS035
-7.96
-Ramdhari Mangeshkar
-PES2UG22CS036
-6.12
-Krishna Bhatnagar
-PES2UG22CS037
-6.67
-Lakshmi Javdekar
-PES2UG22CS038
-7.55
-Anupriya Chakraborty
-PES2UG22CS039
-6.19
-Keshav Kamath
-PES2UG22CS040
-8.04
-Sanatan Malhotra
-PES2UG22CS041
-7.71
-Manisha Sen
-PES2UG22CS042
-8.17
-Uday Pandit
-PES2UG22CS043
-7.94
-Animesh Dhanuka
-PES2UG22CS044
-7.26
-Gunja Sharma
-PES2UG22CS045
-8.71
-Vikas Dalal
-PES2UG22CS046
-7.69
-Sonali Bachchan
-PES2UG22CS047
-7.74
-Varuna Umrao
-PES2UG22CS048
-6.33
-Ketki Bedi
-PES2UG22CS049
-7.29
-Shivangi Gaonkar
-PES2UG22CS050
-9.51
-Ashwin Umrao
-PES2UG22CS051
-8.19
-Aparna Pratap
-PES2UG22CS052
-6.63
-Parvati Atlani
-PES2UG22CS053
-7.68
-Indumati Gautam
-PES2UG22CS054
-7.42
-Harshini Bose
-PES2UG22CS055
-9.01
-Snehlata Deo
-PES2UG22CS056
-7.76
-Natasha Patil
-PES2UG22CS057
-6.3
-Kokila Kamat
-PES2UG22CS058
-7.47
-Atharva Desai
-PES2UG22CS059
-9.32
-Tara Dadhich
-PES2UG22CS060
-7.58
-Vibhuti Kadam
-PES2UG22CS061
-8.3
-Pranita Dadhich
-PES2UG22CS062
-6.85
-Hemlata Dey
-PES2UG22CS063
-7.65
-Madhavrao Banerjee
-PES2UG22CS064
-6.99
-Srishti Naik
-PES2UG22CS065
-8.01
-Sohan Chakraborty
-PES2UG22CS066
-7.4
-Sulekha Mangeshkar
-PES2UG22CS067
-7.53
-Hardik Jadhav
-PES2UG22CS068
-7.34
-Pritish Lakhotia
-PES2UG22CS069
-8.55
-Uday Prajapati
-PES2UG22CS070
-6.44
-Upagya Khatri
-PES2UG22CS071
-7.19
-Sonam Khajuria
-PES2UG22CS072
-6.48
-Saurabh Naik
-PES2UG22CS073
-8.93
-Indira Maheshwari
-PES2UG22CS074
-7.45
-Snigdha Bhattacharya
-PES2UG22CS075
-7.43
-Adyashankar Kannaujiya
-PES2UG22CS076
-7.52
-Dilip Das
-PES2UG22CS077
 6.41
-Sohini Mittal
-PES2UG22CS078
-6.94
-Prateeksha Azad
-PES2UG22CS079
-6.45
-Rajkumar Bahuguna
-PES2UG22CS080
-7.02
-Gagandeep Dhoundial
-PES2UG22CS081
-6.5
-Meenu Surana
-PES2UG22CS082
-7.89
-Neetoo Ambedkar
-PES2UG22CS083
-8.16
-Rohit Kelkar
-PES2UG22CS084
-7.68
-Nivedita Giri
-PES2UG22CS085
-4.97
-Bhoomi Pratap
-PES2UG22CS086
-8.27
-Narendra Pandey
-PES2UG22CS087
-8.63
-Sapna Mistry
-PES2UG22CS088
-6.0
-Janmejay Dadhich
-PES2UG22CS089
-8.84
-Kritika Rajpurohit
-PES2UG22CS090
-6.78
-Sumukhi Parmar
-PES2UG22CS091
+Sanjana Dubey
+PES2UG22CS005
+5.67
+Rohit Khatri
+PES2UG22CS006
+3.17
+Kunti Pandit
+PES2UG22CS007
+4.85
+Hemant Kejriwal
+PES2UG22CS008
+7.51
+Neelima Khemka
+PES2UG22CS009
+5.31
+Apurva Kedia
+PES2UG22CS010
+4.54
+Neel Rathod
+PES2UG22CS011
+1.67
+Taniya Malik
+PES2UG22CS012
+6.52
+Chintamani Som
+PES2UG22CS013
+5.28
+Mudita Mazumdar
+PES2UG22CS014
+4.44
+Preyash Munda
+PES2UG22CS015
+6.36
+Kamalashankar Bandopadhyay
+PES2UG22CS016
+5.73
+Malini Sampla
+PES2UG22CS017
+9.91
+Kunti Reddy
+PES2UG22CS018
+8.32
+Amit Saini
+PES2UG22CS019
+8.14
+Sarika Basu
+PES2UG22CS020
+4.81
+Jatashankar Barjatya
+PES2UG22CS021
+3.98
+Mridula Bhasin
+PES2UG22CS022
+5.06
+Bahadur Deo
+PES2UG22CS023
+4.78
+Sundari Desai
+PES2UG22CS024
+6.54
+Neeta Chakraborty
+PES2UG22CS025
+7.08
+Avinash Mandal
+PES2UG22CS026
+5.44
+Shubhendu Rao
+PES2UG22CS027
+9.33
+Rajnath Shaw
+PES2UG22CS028
+2.7
+Pranita Rawal
+PES2UG22CS029
+5.49
+Madhu Pujari
+PES2UG22CS030
+6.32
+Rishikesh Mistry
+PES2UG22CS031
+4.46
+Suneeti Chaubey
+PES2UG22CS032
+6.35
+Ridhima Srivatsa
+PES2UG22CS033
+0
+Archita Tripathi
+PES2UG22CS034
+7.07
+Shailesh Dhoni
+PES2UG22CS035
+4.76
+Abha Kamal
+PES2UG22CS036
+7.29
+Sonali Jindal
+PES2UG22CS037
 7.55
-Subhashini Narayan
-PES2UG22CS092
-8.87
-Guddoo Vyas
-PES2UG22CS093
-8.37
-Monika Pandit
-PES2UG22CS094
-7.1
-Chandani Modanwal
-PES2UG22CS095
-7.21
-Shilpi Sahu
-PES2UG22CS096
-6.89
-Amrita Azad
-PES2UG22CS097
-7.1
-Pritika Goel
-PES2UG22CS098
+Rajnath Shastry
+PES2UG22CS038
+7.24
+Vineeta Kejriwal
+PES2UG22CS039
+7.23
+Ishan Mazumdar
+PES2UG22CS040
+8.3
+Pramod Kayasth
+PES2UG22CS041
+3.4
+Satyaprakash Mohanty
+PES2UG22CS042
+4.91
+Sugandha Prajapati
+PES2UG22CS043
+10
+Ruchi Prajapati
+PES2UG22CS044
+3.27
+Sushil Bhatt
+PES2UG22CS045
+7.41
+Niladri Chandrachud
+PES2UG22CS046
+6.32
+Khyati Sahu
+PES2UG22CS047
+3.06
+Anveshita Rout
+PES2UG22CS048
+6.67
+Shivanshi Soni
+PES2UG22CS049
+6.73
+Arunita Yaduvanshi
+PES2UG22CS050
+6.16
+Pragya Pandit
+PES2UG22CS051
+8.08
+Amish Baghel
+PES2UG22CS052
+3.15
+Geetika Bhadauria
+PES2UG22CS053
+8.61
+Gauri Arora
+PES2UG22CS054
+7.22
+Devashish Bharati
+PES2UG22CS055
+1.89
+Rukmini Sagar
+PES2UG22CS056
+5.64
+Aanchal Rana
+PES2UG22CS057
+8.25
+Nishi Anand
+PES2UG22CS058
+3.24
+Padmaja Bhatnagar
+PES2UG22CS059
+6.76
+Prachi Shandilya
+PES2UG22CS060
+4.68
+Vikrant Nair
+PES2UG22CS061
+7.15
+Harishankar Modi
+PES2UG22CS062
+5.49
+Lavisha Gaitonde
+PES2UG22CS063
+6.61
+Jamunadas Khaitan
+PES2UG22CS064
+6.78
+Angad Rajpoot
+PES2UG22CS065
+4.78
+Arpana Khattar
+PES2UG22CS066
+3.56
+Sangeeta Banerjee
+PES2UG22CS067
+4.31
+Vivasvan Lohia
+PES2UG22CS068
+8.3
+Mithun Rastogi
+PES2UG22CS069
+4.3
+Ankur Chakraborty
+PES2UG22CS070
 6.03
-Saroj Garg
+Gaurish Bhatia
+PES2UG22CS071
+7.01
+Kirti Sardana
+PES2UG22CS072
+6.12
+Sudheer Javdekar
+PES2UG22CS073
+7.45
+Bharat Poddar
+PES2UG22CS074
+4.99
+Chandrama Srivastava
+PES2UG22CS075
+7.74
+Priyadarshini Meena
+PES2UG22CS076
+2.35
+Akshara Dutt
+PES2UG22CS077
+7.4
+Mahalakshmi Agrawal
+PES2UG22CS078
+7.58
+Surekha Jhunjhunwala
+PES2UG22CS079
+7.16
+Bhagwati Marandi
+PES2UG22CS080
+3.39
+Amol Phogat
+PES2UG22CS081
+9.4
+Bhawna Rout
+PES2UG22CS082
+6.47
+Prem Ganguly
+PES2UG22CS083
+6.79
+Alka Swaraj
+PES2UG22CS084
+5.3
+Debashish Dabral
+PES2UG22CS085
+6.2
+Rahul Maurya
+PES2UG22CS086
+5.9
+Nilakshi Dholakia
+PES2UG22CS087
+4.68
+Vallabh Shah
+PES2UG22CS088
+5.62
+Suresh Malik
+PES2UG22CS089
+8.32
+Neeta Keshari
+PES2UG22CS090
+7.49
+Neelima Nautiyal
+PES2UG22CS091
+6.52
+Harshini Bose
+PES2UG22CS092
+4.5
+Ritika Jadhav
+PES2UG22CS093
+5.04
+Akshit Sengupta
+PES2UG22CS094
+4.76
+Pramod Malode
+PES2UG22CS095
+4.58
+Shivendra Ahale
+PES2UG22CS096
+10
+Jayesh Patwari
+PES2UG22CS097
+5.97
+Maithili Dwivedi
+PES2UG22CS098
+5.58
+Pratyusha Khaitan
 PES2UG22CS099
-6.89
-Deepmala Baranwal
+5.89
+Rambha Bhansali
 PES2UG22CS100
-7.48
+5.5
+Aarohi Atlani
+PES2UG22CS101
+3.37
+Nandini Talwar
+PES2UG22CS102
+6.35
+Paankhi Sisodia
+PES2UG22CS103
+4.72
+Vignesh Kaushik
+PES2UG22CS104
+6.64
+Kamya Prasad
+PES2UG22CS105
+5.2
+Sushma Dubey
+PES2UG22CS106
+8.88
+Vidushi Ketkar
+PES2UG22CS107
+4.53
+Lakshya Singhi
+PES2UG22CS108
+6.09
+Ashirwad Goel
+PES2UG22CS109
+6.33
+Kamala Tyagi
+PES2UG22CS110
+2.16
+Kailash Gautam
+PES2UG22CS111
+7.3
+Pranita Supriyo
+PES2UG22CS112
+6.19
+Shuchita Rajawat
+PES2UG22CS113
+9.07
+Shubhangi Swaraj
+PES2UG22CS114
+8.11
+Bimal Gond
+PES2UG22CS115
+8.46
+Anjani Ahir
+PES2UG22CS116
+5.2
+Niharika Rode
+PES2UG22CS117
+6.43
+Santoshi Roy
+PES2UG22CS118
+4.8
+Vinod Nahar
+PES2UG22CS119
+7.81
+Poonam Gokhale
+PES2UG22CS120
+10
+Namrata Ketkar
+PES2UG22CS121
+2.81
+Snigdha Phogat
+PES2UG22CS122
+7.18
+Sacchidanand Maali
+PES2UG22CS123
+7.93
+Shekhar Damani
+PES2UG22CS124
+7.02
+Neetoo Mittal
+PES2UG22CS125
+7.07
+Chandrakanti Prajapati
+PES2UG22CS126
+6.23
+Harinakshi Mandal
+PES2UG22CS127
+6.36
+Arpana Deshpande
+PES2UG22CS128
+6.14
+Nihal Saha
+PES2UG22CS129
+5.68
+Aastha Sahani
+PES2UG22CS130
+2.39
+Siddharth Misra
+PES2UG22CS131
+4.55
+Sneha Azad
+PES2UG22CS132
+7.73
+Awadh Bakshi
+PES2UG22CS133
+2.63
+Narayani Bhasin
+PES2UG22CS134
+5.48
+Minakshi Sahani
+PES2UG22CS135
+7.67
+Lalit Parekh
+PES2UG22CS136
+7.6
+Swaraj Sawant
+PES2UG22CS137
+2.7
+Roopa Bhasin
+PES2UG22CS138
+6.48
+Yashoda Hazari
+PES2UG22CS139
+7.66
+Murali Gavaskar
+PES2UG22CS140
+5.25
+Sheetala Raj
+PES2UG22CS141
+4.82
+Sushma Patwari
+PES2UG22CS142
+3.62
+Arushi Banerjee
+PES2UG22CS143
+6.69
+Hitesh Raina
+PES2UG22CS144
+7.54
+Ankush Naik
+PES2UG22CS145
+5.64
+Manjushree Khemka
+PES2UG22CS146
+6.0
+Maheep Bedi
+PES2UG22CS147
+8.15
+Manjesh Lohia
+PES2UG22CS148
+7.33
+Prerna Deo
+PES2UG22CS149
+7.05
+Tejpratap Goswami
+PES2UG22CS150
+7.35
+Raushan Mittal
+PES2UG22CS151
+1.44
+Rachit Nair
+PES2UG22CS152
+8.53
+Tanu Rajpoot
+PES2UG22CS153
+3.76
+Natwar Rawal
+PES2UG22CS154
+3.74
+Kartik Bhansali
+PES2UG22CS155
+4.51
+Prajjwal Dhoundial
+PES2UG22CS156
+1.82
+Adityanath Pawar
+PES2UG22CS157
+4.39
+Radha Kapoor
+PES2UG22CS158
+7.81
+Suneeta Goel
+PES2UG22CS159
+5.71
+Avdhesh Kamal
+PES2UG22CS160
+6.69
+Nimisha Deo
+PES2UG22CS161
+5.8
+Vimal Shirke
+PES2UG22CS162
+8.26
+Shailja Kamal
+PES2UG22CS163
+3.22
+Shreejesh Barjatya
+PES2UG22CS164
+7.57
+Paritosh Vishwakarma
+PES2UG22CS165
+8.38
+Shatrughna Dhoni
+PES2UG22CS166
+7.51
+Sonali Gaitonde
+PES2UG22CS167
+6.86
+Bhuwaneshwar Khatri
+PES2UG22CS168
+2.95
+Mihika Saha
+PES2UG22CS169
+4.81
+Sonia Rastogi
+PES2UG22CS170
+7.16
+Rangnath Srivastava
+PES2UG22CS171
+5.17
+Anshuman Joshi
+PES2UG22CS172
+6.54
+Mithilesh Agrawal
+PES2UG22CS173
+7.61
+Archita Rao
+PES2UG22CS174
+5.27
+Nagendra Chakraborty
+PES2UG22CS175
+5.62
+Shayantani Kejriwal
+PES2UG22CS176
+5.55
+Surekha Kothari
+PES2UG22CS177
+8.82
+Shakumbhari Deewan
+PES2UG22CS178
+4.92
+Parinita Raina
+PES2UG22CS179
+3.85
+Kalicharan Tendulkar
+PES2UG22CS180
+4.05
+Suraj Advani
+PES2UG22CS181
+7.56
+Kajol Kanetkar
+PES2UG22CS182
+6.31
+Kamalashankar Ranaut
+PES2UG22CS183
+4.07
+Nivedita Shah
+PES2UG22CS184
+6.42
+Udit Mathur
+PES2UG22CS185
+5.54
+Atul Chouhan
+PES2UG22CS186
+7.21
+Shalabh Puri
+PES2UG22CS187
+5.49
+Pranav Nag
+PES2UG22CS188
+4.35
+Devendra Vyas
+PES2UG22CS189
+6.79
+Rishabh Sarkar
+PES2UG22CS190
+5.05
+Shaily Kamath
+PES2UG22CS191
+6.7
+Premprakash Batra
+PES2UG22CS192
+6.69
+Bipin Chawla
+PES2UG22CS193
+7.6
+Lakshmi Runthla
+PES2UG22CS194
+4.16
+Pranay Ambani
+PES2UG22CS195
+5.84
+Madhusoodan Tagore
+PES2UG22CS196
+7.51
+Rampyare Ghoshal
+PES2UG22CS197
+5.6
+Lata Basu
+PES2UG22CS198
+3.72
+Snehlata Shankar
+PES2UG22CS199
+5.17
+Sumitra Misra
+PES2UG22CS200
+6.2
+Dashrath Bhatnagar
+PES2UG22CS201
+1.18
+Vineet Kannaujiya
+PES2UG22CS202
+9.12
+Manas Jhunjhunwala
+PES2UG22CS203
+5.6
+Mansa Bharadwaj
+PES2UG22CS204
+7.87
+Ashok Pawar
+PES2UG22CS205
+6.75
+Navya Didwania
+PES2UG22CS206
+3.53
+Sukritika Dadhich
+PES2UG22CS207
+6.52
+Surya Goyal
+PES2UG22CS208
+10
+Murali Kayasth
+PES2UG22CS209
+4.91
+Ashok Mohanty
+PES2UG22CS210
+4.83
+Madhurima Bhargav
+PES2UG22CS211
+8.28
+Kush Dutta
+PES2UG22CS212
+3.86
+Uday Giri
+PES2UG22CS213
+6.79
+Nagendra Chaturvedi
+PES2UG22CS214
+6.88
+Neerja Purohit
+PES2UG22CS215
+8.53
+Padmavati Mehra
+PES2UG22CS216
+8.06
+Jeetendra Malik
+PES2UG22CS217
+7.95
+Nitin Dalal
+PES2UG22CS218
+3.49
+Naitik Mazumdar
+PES2UG22CS219
+5.54
+Isha Rai
+PES2UG22CS220
+7.99
+Madhu Singh
+PES2UG22CS221
+3.48
+Vidya Modi
+PES2UG22CS222
+2.08
+Mukul Mondal
+PES2UG22CS223
+4.92
+Nitisha Kamble
+PES2UG22CS224
+7.9
+Rachana Rode
+PES2UG22CS225
+3.62
+Vineeta Mittal
+PES2UG22CS226
+6.22
+Shreejesh Shrivastava
+PES2UG22CS227
+7.42
+Shankar Bhattacharya
+PES2UG22CS228
+4.41
+Mayank Balyan
+PES2UG22CS229
+6.62
+Akshay Kapoor
+PES2UG22CS230
+4.56
+Shakuntala Bhargav
+PES2UG22CS231
+8.7
+Vishwas Bose
+PES2UG22CS232
+5.61
+Dhrupad Sinha
+PES2UG22CS233
+6.62
+Manisha Bahuguna
+PES2UG22CS234
+2.63
+Indrajit Mazumdar
+PES2UG22CS235
+3.69
+Sumukhi Shaw
+PES2UG22CS236
+5.98
+Saket Maali
+PES2UG22CS237
+7.66
+Dhwani Mishra
+PES2UG22CS238
+4.0
+Gagan Srivatsa
+PES2UG22CS239
+4.64
+Bhagirathi Sethi
+PES2UG22CS240
+9.3
+Yamuna Pushkar
+PES2UG22CS241
+6.43
+Deepa Sinha
+PES2UG22CS242
+10
+Kaushal Basu
+PES2UG22CS243
+5.73
+Priyanka Tandon
+PES2UG22CS244
+3.68
+Balraj Bhatt
+PES2UG22CS245
+4.53
+Divya Kamath
+PES2UG22CS246
+7.06
+Vaidehi Modi
+PES2UG22CS247
+5.08
+Suryakanti Gurjar
+PES2UG22CS248
+6.65
+Vikas Soman
+PES2UG22CS249
+9.05
+Narmada Pathak
+PES2UG22CS250
+7.11
+Murlidhar Jadhav
+PES2UG22CS251
+4.51
+Arunita Desai
+PES2UG22CS252
+5.54
+Sohini Mumukshu
+PES2UG22CS253
+7.6
+Himanshi Mazumdar
+PES2UG22CS254
+6.14
+Padmaja Ahale
+PES2UG22CS255
+5.89
+Arun Baranwal
+PES2UG22CS256
+5.11
+Poonam Tyagi
+PES2UG22CS257
+2.47
+Nitika Unadkat
+PES2UG22CS258
+6.39
+Govardhan Sood
+PES2UG22CS259
+7.79
+Neelima Rode
+PES2UG22CS260
+3.24
+Lavkush Mukherjee
+PES2UG22CS261
+4.76
+Sukritika Chaubey
+PES2UG22CS262
+2.6
+Ravi Rai
+PES2UG22CS263
+5.04
+Arpan Dholakia
+PES2UG22CS264
+3.14
+Purvi Seth
+PES2UG22CS265
+4.38
+Triveni Deewan
+PES2UG22CS266
+5.16
+Shubhendu Ghoshal
+PES2UG22CS267
+7.49
+Palak Soni
+PES2UG22CS268
+5.64
+Haripriya Nair
+PES2UG22CS269
+5.18
+Pavan Dhanuka
+PES2UG22CS270
+4.17
+Madhulika Meena
+PES2UG22CS271
+3.97
+Manikram Narula
+PES2UG22CS272
+4.65
+Raksha Dogra
+PES2UG22CS273
+3.93
+Nootan Dholakia
+PES2UG22CS274
+6.01
+Sudheer Vaidya
+PES2UG22CS275
+5.31
+Anita Gaonkar
+PES2UG22CS276
+5.67
+Lakshya Shukla
+PES2UG22CS277
+4.21
+Shiv Dutt
+PES2UG22CS278
+3.61
+Sanjana Saxena
+PES2UG22CS279
+7.27
+Aarti Tyagi
+PES2UG22CS280
+5.91
+Prashant Dhoni
+PES2UG22CS281
+7.0
+Pratyusha Bhatnagar
+PES2UG22CS282
+4.72
+Rachana Dadhich
+PES2UG22CS283
+1.96
+Uddhav Shrivastava
+PES2UG22CS284
+6.29
+Divyanshu Ahir
+PES2UG22CS285
+9.52
+Ratan Banerjee
+PES2UG22CS286
+5.91
+Giriraj Narayan
+PES2UG22CS287
+6.67
+Rangnath Dwivedi
+PES2UG22CS288
+6.35
+Manohar Kulkarni
+PES2UG22CS289
+3.37
+Brahmakumari Kelkar
+PES2UG22CS290
+4.19
+Asha Ahir
+PES2UG22CS291
+5.38
+Lokendra Khanna
+PES2UG22CS292
+6.76
+Premshankar Bachchan
+PES2UG22CS293
+6.23
+Anisha Sengupta
+PES2UG22CS294
+3.25
+Neeti Seth
+PES2UG22CS295
+4.61
+Pavan Kumar
+PES2UG22CS296
+2.51
+Premlata Dhumal
+PES2UG22CS297
+2.46
+Soni Bose
+PES2UG22CS298
+7.02
+Sheetal Ray
+PES2UG22CS299
+4.43
+Apoorv Nag
+PES2UG22CS300
+6.61
+Dipu Batra
+PES2UG22CS301
+10
+Dipanshi Reddy
+PES2UG22CS302
+7.95
+Ruchi Jhunjhunwala
+PES2UG22CS303
+4.64
+Mrityunjay Bishnoi
+PES2UG22CS304
+4.04
+Saroj Kamble
+PES2UG22CS305
+3.75
+Ruchi Ahuja
+PES2UG22CS306
+8.37
+Rajkumar Javdekar
+PES2UG22CS307
+8.86
+Rajnish Gambhir
+PES2UG22CS308
+5.58
+Aarohi Kaul
+PES2UG22CS309
+5.91
+Sanjana Shah
+PES2UG22CS310
+4.01
+Kavindra Patel
+PES2UG22CS311
+5.47
+Amrit Vishwakarma
+PES2UG22CS312
+3.96
+Kritika Poddar
+PES2UG22CS313
+8.02
+Amish Azad
+PES2UG22CS314
+6.9
+Priyali Dey
+PES2UG22CS315
+6.38
+Gagandeep Reddy
+PES2UG22CS316
+5.43
+Komal Sharma
+PES2UG22CS317
+7.13
+Uttam Atrey
+PES2UG22CS318
+7.54
+Sagarika Dave
+PES2UG22CS319
+4.91
+Yudhi Phogat
+PES2UG22CS320
+7.35
+Tarun Balyan
+PES2UG22CS321
+4.5
+Gunja Shaw
+PES2UG22CS322
+3.71
+Lavanya Malode
+PES2UG22CS323
+1.51
+Madhusoodan Joshi
+PES2UG22CS324
+10
+Anisha Fadnavis
+PES2UG22CS325
+4.6
+Upasana Chandravanshi
+PES2UG22CS326
+7.44
+Nandu Gavaskar
+PES2UG22CS327
+9.4
+Hitesh Goswami
+PES2UG22CS328
+6.16
+Amrit Sahay
+PES2UG22CS329
+7.91
+Triveni Kharwar
+PES2UG22CS330
+2.52
+Awantika Tagore
+PES2UG22CS331
+2.29
+Somesh Javdekar
+PES2UG22CS332
+6.55
+Navneet Marandi
+PES2UG22CS333
+3.81
+Jaya Tanwar
+PES2UG22CS334
+5.76
+Leela Kaushik
+PES2UG22CS335
+6.43
+Sukritika Patel
+PES2UG22CS336
+5.72
+Dishita Khosla
+PES2UG22CS337
+6.01
+Samanata Jethwani
+PES2UG22CS338
+3.97
+Shankar Govil
+PES2UG22CS339
+6.28
+Nishtha Bharati
+PES2UG22CS340
+10
+Namrata Rajpoot
+PES2UG22CS341
+10
+Siddharth Bhogle
+PES2UG22CS342
+7.23
+Isha Arora
+PES2UG22CS343
+8.0
+Mausami Goyal
+PES2UG22CS344
+7.51
+Shivendra Jain
+PES2UG22CS345
+3.21
+Ravi Bharati
+PES2UG22CS346
+5.64
+Ramprasad Seth
+PES2UG22CS347
+7.9
+Digvijay Pradhan
+PES2UG22CS348
+6.65
+Nandini Rathod
+PES2UG22CS349
+6.82
+Pramila Gond
+PES2UG22CS350
+7.54
+Varuna Singhi
+PES2UG22CS351
+6.35
+Supriya Bendre
+PES2UG22CS352
+3.7
+Digvijay Bhandarkar
+PES2UG22CS353
+2.76
+Manu Dadhich
+PES2UG22CS354
+4.63
+Aman Chopra
+PES2UG22CS355
+6.14
+Purva Jha
+PES2UG22CS356
+6.85
+Raghavi Chakraborty
+PES2UG22CS357
+5.39
+Devbrat Bhatia
+PES2UG22CS358
+4.95
+Shashwat Ambedkar
+PES2UG22CS359
+4.28
+Sameet Dadhich
+PES2UG22CS360
+6.34
+Sudevi Thakur
+PES2UG22CS361
+5.13
+Abhigyan Dixit
+PES2UG22CS362
+6.04
+Natasha Yadav
+PES2UG22CS363
+4.74
+Shrinath Purohit
+PES2UG22CS364
+5.36
+Roshan Verma
+PES2UG22CS365
+4.63
+Rajat Athawale
+PES2UG22CS366
+7.7
+Prateeksha Prasad
+PES2UG22CS367
+4.91
+Narayan Mantri
+PES2UG22CS368
+6.21
+Supriya Kher
+PES2UG22CS369
+8.51
+Himanshu Rastogi
+PES2UG22CS370
+6.79
+Brijmohan Bhandarkar
+PES2UG22CS371
+5.88
+Dipanshi Rajpoot
+PES2UG22CS372
+8.35
+Abhishree Dhumal
+PES2UG22CS373
+9.52
+Vibhuti Pandit
+PES2UG22CS374
+5.77
+Kripashankar Tandon
+PES2UG22CS375
+5.59
+Pranay Priyadarshini
+PES2UG22CS376
+8.48
+Sakshi Bhasin
+PES2UG22CS377
+7.82
+Mausami Kaushik
+PES2UG22CS378
+3.76
+Ramdev Rout
+PES2UG22CS379
+4.32
+Anil Guha
+PES2UG22CS380
+7.39
+Santoshi Jain
+PES2UG22CS381
+5.73
+Leela Pushkar
+PES2UG22CS382
+3.91
+Pankaj Dave
+PES2UG22CS383
+5.15
+Nitya Nayak
+PES2UG22CS384
+3.42
+Kamini Didwania
+PES2UG22CS385
+3.94
+Pratyasha Mahto
+PES2UG22CS386
+6.51
+Karn Acharya
+PES2UG22CS387
+6.11
+Sudheer Kulkarni
+PES2UG22CS388
+7.82
+Hansvi Kamal
+PES2UG22CS389
+6.49
+Gagan Gaonkar
+PES2UG22CS390
+4.69
+Dharmendra Shukla
+PES2UG22CS391
+4.12
+Sonia Raj
+PES2UG22CS392
+4.05
+Khushboo Gambhir
+PES2UG22CS393
+3.02
+Kripashankar Gokhale
+PES2UG22CS394
+8.0
+Chandrakala Maken
+PES2UG22CS395
+7.94
+Hardik Phogat
+PES2UG22CS396
+7.93
+Anugya Bhansali
+PES2UG22CS397
+8.21
+Yashika Khemka
+PES2UG22CS398
+7.82
+Anoop Sharma
+PES2UG22CS399
+3.86
+Balwant Khandelwal
+PES2UG22CS400
+5.93
+Shaloo Mahajan
+PES2UG22CS401
+6.05
+Santoshi Govil
+PES2UG22CS402
+4.31
+Shivanshi Munda
+PES2UG22CS403
+6.56
+Kashvi Jhunjhunwala
+PES2UG22CS404
+5.62
+Saroj Raj
+PES2UG22CS405
+5.2
+Preetam Das
+PES2UG22CS406
+5.47
+Anil Dadlani
+PES2UG22CS407
+3.53
+Himesh Bharadwaj
+PES2UG22CS408
+7.9
+Sheetendra Dhanuka
+PES2UG22CS409
+7.46
+Anveshita Marandi
+PES2UG22CS410
+4.59
+Avinash Mahajan
+PES2UG22CS411
+3.74
+Sudhakar Govil
+PES2UG22CS412
+8.77
+Aastha Tyagi
+PES2UG22CS413
+3.9
+Sujan Runthla
+PES2UG22CS414
+5.38
+Lakshya Khanna
+PES2UG22CS415
+7.55
+Yukta Adarsh
+PES2UG22CS416
+8.49
+Rambha Dubey
+PES2UG22CS417
+3.99
+Sarvesh Valmiki
+PES2UG22CS418
+6.72
+Amrit Mandal
+PES2UG22CS419
+6.77
+Apoorva Kohli
+PES2UG22CS420
+5.15
+Vibhor Shah
+PES2UG22CS421
+6.01
+Raksha Javdekar
+PES2UG22CS422
+4.16
+Nagesh Ranaut
+PES2UG22CS423
+7.21
+Umakant Som
+PES2UG22CS424
+5.93
+Pranay Bhasin
+PES2UG22CS425
+7.25
+Siddharth Lalwani
+PES2UG22CS426
+5.72
+Raushan Guru
+PES2UG22CS427
+4.94
+Vidushi Sisodia
+PES2UG22CS428
+5.88
+Sanskriti Modi
+PES2UG22CS429
+7.25
+Hitesh Mehta
+PES2UG22CS430
+5.7
+Rudra Govil
+PES2UG22CS431
+5.1
+Aaradhita Deshpande
+PES2UG22CS432
+5.72
+Aarti Rout
+PES2UG22CS433
+4.25
+Tulika Rajpoot
+PES2UG22CS434
+8.52
+Naina Prakash
+PES2UG22CS435
+5.32
+Manish Dadlani
+PES2UG22CS436
+8.04
+Pranjal Sampla
+PES2UG22CS437
+6.73
+Balwant Oberoi
+PES2UG22CS438
+3.63
+Saurabh Jadhav
+PES2UG22CS439
+5.72
+Sheshnath Bhaskar
+PES2UG22CS440
+8.84
+Kanhaiya Bendre
+PES2UG22CS441
+5.27
+Aseem Thackeray
+PES2UG22CS442
+6.73
+Sunaina Advani
+PES2UG22CS443
+5.21
+Rajnish Dadlani
+PES2UG22CS444
+3.63
+Lakshmi Ray
+PES2UG22CS445
+4.91
+Marutanjali Thakkar
+PES2UG22CS446
+5.09
+Devyani Kaushik
+PES2UG22CS447
+5.27
+Vaagishwari Chandravanshi
+PES2UG22CS448
+8.89
+Gyanendra Kothari
+PES2UG22CS449
+3.68
+Sajan Sarkar
+PES2UG22CS450
+4.61
+Smriti Ketkar
+PES2UG22CS451
+6.59
+Bhawna Kadam
+PES2UG22CS452
+3.85
+Mimansa Kadam
+PES2UG22CS453
+5.59
+Mamta Tomar
+PES2UG22CS454
+8.19
+Shivani Bhat
+PES2UG22CS455
+3.93
+Pritika Bhadauria
+PES2UG22CS456
+3.38
+Vivek Pathak
+PES2UG22CS457
+5.78
+Yashodhara Bharati
+PES2UG22CS458
+6.66
+Bheem Ojha
+PES2UG22CS459
+3.87
+Tanisha Khanna
+PES2UG22CS460
+5.94
+Rajnath Jethwani
+PES2UG22CS461
+4.42
+Shaily Kumar
+PES2UG22CS462
+7.6
+Bhushan Bahl
+PES2UG22CS463
+8.61
+Priti Kohli
+PES2UG22CS464
+4.84
+Sumukhi Jadhav
+PES2UG22CS465
+4.58
+Abhigyan Bind
+PES2UG22CS466
+6.48
+Jayesh Puri
+PES2UG22CS467
+4.66
+Jagriti Biswas
+PES2UG22CS468
+5.98
+Anshul Bendre
+PES2UG22CS469
+9.86
+Nirbhay Deshpande
+PES2UG22CS470
+3.13
+Dharam Maurya
+PES2UG22CS471
+6.19
+Pranav Baghel
+PES2UG22CS472
+4.77
+Saras Bhaskar
+PES2UG22CS473
+3.26
+Sapna Gehlot
+PES2UG22CS474
+4.88
+Vishakha Atrey
+PES2UG22CS475
+5.22
+Murali Javdekar
+PES2UG22CS476
+6.87
+Kashika Tandon
+PES2UG22CS477
+3.34
+Pragya Seth
+PES2UG22CS478
+5.5
+Vedika Modanwal
+PES2UG22CS479
+9.57
+Premchand Javdekar
+PES2UG22CS480
+8.96
+Prachi Rastogi
+PES2UG22CS481
+4.87
+Sajjan Kejriwal
+PES2UG22CS482
+3.73
+Manas Batra
+PES2UG22CS483
+6.08
+Ruchika Rajawat
+PES2UG22CS484
+9.08
+Dhwani Nayak
+PES2UG22CS485
+5.73
+Priya Mukhopadhyay
+PES2UG22CS486
+4.68
+Madhusoodan Shandilya
+PES2UG22CS487
+3.19
+Ganga Ganguly
+PES2UG22CS488
+4.77
+Narad Patnaik
+PES2UG22CS489
+5.18
+Ishwar Hatwal
+PES2UG22CS490
+4.18
+Raghavi Kamath
+PES2UG22CS491
+7.51
+Diksha Nair
+PES2UG22CS492
+10
+Jawahar Kaushik
+PES2UG22CS493
+5.44
+Akhil Gunji
+PES2UG22CS494
+7.66
+Sonali Puri
+PES2UG22CS495
+5.46
+Chandrama Priyadarshini
+PES2UG22CS496
+4.79
+Ruchir Gujral
+PES2UG22CS497
+8.15
+Sharad Jahagirdar
+PES2UG22CS498
+6.37
+Gomed Kushwaha
+PES2UG22CS499
+6.95
+Indrani Malode
+PES2UG22CS500
+5.56
+Kritika Munda
+PES2UG22CS501
+6.95
+Narayan Bose
+PES2UG22CS502
+3.09
+Gajendra Umar
+PES2UG22CS503
+7.51
+Harshita Nair
+PES2UG22CS504
+6.49
+Taniya Gaonkar
+PES2UG22CS505
+7.71
+Mimansa Thakkar
+PES2UG22CS506
+4.71
+Sujata Bhatt
+PES2UG22CS507
+5.75
+Nagendra Priyadarshini
+PES2UG22CS508
+7.07
+Yashvi Nagar
+PES2UG22CS509
+4.86
+Shivaji Lakhotia
+PES2UG22CS510
+6.53
+Swapnil Swaraj
+PES2UG22CS511
+5.84
+Manjushree Gujjar
+PES2UG22CS512
+4.8
+Ramdev Gadkari
+PES2UG22CS513
+6.57
+Amitabh Guha
+PES2UG22CS514
+3.84
+Subhashini Nishad
+PES2UG22CS515
+4.64
+Dinkar Saini
+PES2UG22CS516
+0.7
+Vishakha Malhotra
+PES2UG22CS517
+6.19
+Jaya Tanwar
+PES2UG22CS518
+5.66
+Somdatt Sengupta
+PES2UG22CS519
+5.78
+Lata Dixit
+PES2UG22CS520
+8.74
+Yashodhara Suryavanshi
+PES2UG22CS521
+6.92
+Nimisha Munda
+PES2UG22CS522
+10
+Premchand Kayasth
+PES2UG22CS523
+4.29
+Prayag Choudhuri
+PES2UG22CS524
+5.54
+Satyaprakash Kamath
+PES2UG22CS525
+5.47
+Palki Gadkari
+PES2UG22CS526
+10
+Susheela Modi
+PES2UG22CS527
+5.55
+Ramprasad Adarsh
+PES2UG22CS528
+5.16
+Gopi Dave
+PES2UG22CS529
+8.2
+Abhishek Marandi
+PES2UG22CS530
+8.87
+Shuchita Athawale
+PES2UG22CS531
+4.73
+Rupali Suryavanshi
+PES2UG22CS532
+6.89
+Navya Swaraj
+PES2UG22CS533
+6.13
+Radharaman Verma
+PES2UG22CS534
+6.67
+Damini Mukherjee
+PES2UG22CS535
+2.97
+Vaagishwari Srivastava
+PES2UG22CS536
+5.5
+Sampada Jaitley
+PES2UG22CS537
+7.03
+Kripashankar Vats
+PES2UG22CS538
+6.21
+Anshul Kadam
+PES2UG22CS539
+6.95
+Pramila Bhandari
+PES2UG22CS540
+6.1
+Abhinav Gujjar
+PES2UG22CS541
+5.63
+Kajal Kharwar
+PES2UG22CS542
+7.75
+Vikrant Patil
+PES2UG22CS543
+5.23
+Prakash Rathi
+PES2UG22CS544
+3.24
+Raghavendra Runthla
+PES2UG22CS545
+4.05
+Veena Bhatia
+PES2UG22CS546
+8.23
+Uddhav Shastry
+PES2UG22CS547
+6.36
+Vidisha Govil
+PES2UG22CS548
+4.41
+Nitisha Gujral
+PES2UG22CS549
+7.42
+Manohar Balyan
+PES2UG22CS550
+5.72
+Sulabh Choudhuri
+PES2UG22CS551
+6.13
+Manisha Hajariya
+PES2UG22CS552
+4.36
+Rupa Umar
+PES2UG22CS553
+5.82
+Drishti Bhansali
+PES2UG22CS554
+4.53
+Kishan Gurjar
+PES2UG22CS555
+4.97
+Ritika Nahar
+PES2UG22CS556
+3.5
+Amrish Prajapati
+PES2UG22CS557
+4.56
+Anand Chopra
+PES2UG22CS558
+6.96
+Vishnupriya Hatwal
+PES2UG22CS559
+6.02
+Ravinder Munda
+PES2UG22CS560
+3.6
+Dipanshi Priyadarshini
+PES2UG22CS561
+8.16
+Neeta Shrivastava
+PES2UG22CS562
+4.27
+Suneeti Rode
+PES2UG22CS563
+3.45
+Sanskriti Rathore
+PES2UG22CS564
+5.08
+Pranita Nagar
+PES2UG22CS565
+7.52
+Deepam Mishra
+PES2UG22CS566
+4.8
+Siddhi Gujjar
+PES2UG22CS567
+4.74
+Ramayan Sethi
+PES2UG22CS568
+6.81
+Tanushree Kamal
+PES2UG22CS569
+6.58
+Nikhil Nair
+PES2UG22CS570
+10
+Anisha Kakkar
+PES2UG22CS571
+9.19
+Ayush Bhandarkar
+PES2UG22CS572
+3.78
+Deepali Kejriwal
+PES2UG22CS573
+3.79
+Rachana Rathore
+PES2UG22CS574
+2.81
+Abhisar Bose
+PES2UG22CS575
+8.76
+Sanjana Prajapati
+PES2UG22CS576
+7.25
+Vaagdevi Dadlani
+PES2UG22CS577
+9.11
+Bhuwaneshwar Bhargav
+PES2UG22CS578
+5.7
+Sugandha Kanetkar
+PES2UG22CS579
+7.84
+Abhisar Mistry
+PES2UG22CS580
+2.63
+Gargi Surana
+PES2UG22CS581
+6.71
+Kanaklata Kher
+PES2UG22CS582
+4.49
+Upagya Dhoundial
+PES2UG22CS583
+6.33
+Monu Maurya
+PES2UG22CS584
+4.88
+Vivasvan Lohia
+PES2UG22CS585
+1.68
+Udit Kejriwal
+PES2UG22CS586
+3.61
+Neha Kannaujiya
+PES2UG22CS587
+6.93
+Barkha Khajuria
+PES2UG22CS588
+3.99
+Preksha Naik
+PES2UG22CS589
+3.94
+Kalpana Dalal
+PES2UG22CS590
+3.33
+Hansini Dubey
+PES2UG22CS591
+7.79
+Rajeev Rout
+PES2UG22CS592
+4.34
+Mansa Bedi
+PES2UG22CS593
+7.65
+Sankalp Deo
+PES2UG22CS594
+8.49
+Hemant Didwania
+PES2UG22CS595
+4.94
+Chandani Bhadauria
+PES2UG22CS596
+6.81
+Rashika Gambhir
+PES2UG22CS597
+10
+Sulabha Goel
+PES2UG22CS598
+9.59
+Ameya Shorey
+PES2UG22CS599
+6.72
+Dhruv Rout
+PES2UG22CS600
+3.09

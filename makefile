@@ -2,7 +2,7 @@ CC = gcc
 
 CFLAGS = -Wall -g
 
-SRCS = main.c anshita/anshita.c arjun/arjun.c yaswanth/yaswanth.c anurag/anurag.c
+SRCS = main.c anshita/anshita.c arjun/arjun.c yaswanth/yaswanth.c anurag/anurag.c pbPlots/pbPlots.c pbPlots/supportLib.c
 
 OBJS = $(SRCS:.c=.o)
 
