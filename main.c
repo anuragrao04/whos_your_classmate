@@ -46,12 +46,9 @@ int main(int argc, char *argv[]) {
     fscanf(input_file, "\n");
     add_to_queue(&queue_head, student_name, student_srn, student_gpa);
   }
-  printf("Insertion done! calling classroom_div\n");
 
   // inserting each student into the tree
   classroom_div(classes, num_classes, queue_head);
-
-  printf("classroom_div done\n");
 
   int choice;
   int section;

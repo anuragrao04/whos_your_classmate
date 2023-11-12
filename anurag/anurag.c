@@ -1,6 +1,7 @@
 #include "../definitions.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 int get_total_number_of_nodes(tree_node_t *_class) {
   if (_class == NULL) {
@@ -38,6 +39,12 @@ void get_quartiles_for_a_class(tree_node_t *_class) {
   fprintf(stdout, "Q3: %f\n", q3);
 }
 
+int compare_names(const void *a, const void *b) {
+  tree_node_t *student_a = *(tree_node_t **)a;
+  tree_node_t *student_b = *(tree_node_t **)b;
+  return strcmp(student_a->name, student_b->name);
+}
+
 void roll_list_of_each_class(tree_node_t *classes[], int num_classes) {
   for (int i = 0; i < num_classes; i++) {
     int num_nodes = get_total_number_of_nodes(classes[i]);
@@ -46,6 +53,9 @@ void roll_list_of_each_class(tree_node_t *classes[], int num_classes) {
 
     inorder(classes[i], arr,
             &k); // this will give us an inorder array of students
+    // but this is in the order of GPA and not name. so we need to sort it
+
+    qsort(arr, num_nodes, sizeof(tree_node_t *), compare_names);
 
     printf("\n\nClass %d:\n", i);
     printf("Roll No. %-30s %-16s %-4s\n", "Name", "SRN", "CGPA");
