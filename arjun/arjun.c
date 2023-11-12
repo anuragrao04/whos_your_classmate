@@ -114,39 +114,6 @@ tree_node_t *insert(tree_node_t *root, tree_node_t *student) {
   return root;
 }
 
-// Display as diagram
-void display_roll_list(tree_node_t *root, int space) {
-  // Base case
-  if (root == NULL)
-    return;
-
-  // Increase distance between levels
-  space += COUNT;
-
-  // Process right child first
-  display_roll_list(root->right, space);
-
-  // Print current node after space
-  // count
-  printf("\n");
-  for (int i = COUNT; i < space; i++)
-    printf(" ");
-  printf("%f\n", root->cgpa);
-
-  // Process left child
-  display_roll_list(root->left, space);
-}
-
-// Display for every class
-void roll_list_of_each_class(tree_node_t *classes[], int num_classes) {
-  for (int i = 0; i < num_classes; i++) {
-    printf("Class %d:\n", i);
-    // roll_list(classes[i]);
-    display_roll_list(classes[i], 0);
-    printf("\n\n");
-  }
-}
-
 // int main(){
 //     tree_node_t *root = NULL;
 //     tree_node_t *root2 = NULL;
