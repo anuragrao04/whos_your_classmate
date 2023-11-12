@@ -11,6 +11,7 @@ void classroom_div(tree_node_t **classes, int num_classes,
       for (int i = 0; i < num_classes; i++) {
         if (queue_head != NULL) {
           tree_node_t *student = queue_head->data;
+          printf("inserting %s into class %d\n", student->name, i);
           classes[i] = insert(classes[i], student);
           queue_node_t *temp = queue_head->next;
           free(queue_head);

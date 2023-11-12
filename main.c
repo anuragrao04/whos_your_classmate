@@ -21,11 +21,16 @@ int main(int argc, char *argv[]) {
   // defining the number of classes
   int num_classes;
   fscanf(input_file, "%d", &num_classes);
+  fscanf(input_file, "\n");
   tree_node_t *classes[num_classes];
+  for (int i = 0; i < num_classes; i++) {
+    classes[i] = NULL;
+  }
 
   // defining total number of students
   int total_num_students;
   fscanf(input_file, "%d", &total_num_students);
+  fscanf(input_file, "\n");
 
   // inserting each student into the priority queue
   char student_name[100];
@@ -34,13 +39,19 @@ int main(int argc, char *argv[]) {
 
   for (int i = 0; i < total_num_students; i++) {
     fscanf(input_file, "%[^\n]s", student_name);
+    fscanf(input_file, "\n");
     fscanf(input_file, "%[^\n]s", student_srn);
+    fscanf(input_file, "\n");
     fscanf(input_file, "%f", &student_gpa);
+    fscanf(input_file, "\n");
     add_to_queue(&queue_head, student_name, student_srn, student_gpa);
   }
+  printf("Insertion done! calling classroom_div\n");
 
   // inserting each student into the tree
   classroom_div(classes, num_classes, queue_head);
+
+  printf("classroom_div done\n");
 
   int choice;
   int section;
