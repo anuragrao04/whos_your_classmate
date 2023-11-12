@@ -6,12 +6,12 @@ SRCS = main.c anshita/anshita.c arjun/arjun.c yaswanth/yaswanth.c anurag/anurag.
 
 OBJS = $(SRCS:.c=.o)
 
-MAIN = main
+MAIN = whos_your_classmate
 
 .PHONY: depend clean
 
 all:   $(MAIN)
-	@echo Program has been compiled
+	@printf "\n\nProgram has been compiled! Run ./whos_your_classmate to execute the program.\n"
 
 $(MAIN): $(OBJS) 
 	$(CC) $(CFLAGS) -o $(MAIN) $(OBJS)

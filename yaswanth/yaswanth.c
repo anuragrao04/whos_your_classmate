@@ -57,7 +57,6 @@ void get_gpa_distribution_for_a_class(tree_node_t *_class) {
   if (_class == NULL) {
     printf("Empty Classroom");
   } else {
-    printf("\nGPA Distribution :\n");
     int total_students = get_total_number_of_nodes(_class);
     tree_node_t *arr[total_students];
     double xs[11];
@@ -75,10 +74,6 @@ void get_gpa_distribution_for_a_class(tree_node_t *_class) {
       ys[(int)(arr[j]->cgpa)] += 1;
     }
 
-    for (int i = 0; i < 11; i++) {
-      printf("%lf %lf\n", xs[i], ys[i]);
-    }
-
     StartArenaAllocator();
 
     RGBABitmapImageReference *canvasReference =
@@ -92,6 +87,7 @@ void get_gpa_distribution_for_a_class(tree_node_t *_class) {
       ByteArray *pngdata = ConvertToPNG(canvasReference->image);
       WriteToFile(pngdata, "distribution.png");
       DeleteImage(canvasReference->image);
+      printf("\nOpen distribution.png to see the plot!\n");
     } else {
       fprintf(stderr, "Error: ");
       for (int i = 0; i < errorMessage->stringLength; i++) {
