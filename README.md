@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple C program that helps colleges like PES divide students into classrooms more efficiently rather than making it purely SRN based.
+This is a simple C program that helps schools and colleges divide students into classrooms based on their GPAs. This eliminates the random nature of random allotment/SRN based allotment. It makes sure that there is a normal distribution of marks in every classroom.
 
 ## Usage
 
