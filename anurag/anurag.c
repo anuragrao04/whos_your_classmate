@@ -1,4 +1,6 @@
 #include "../definitions.h"
+#include "../pbPlots/pbPlots.h"
+#include "../pbPlots/supportLib.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -63,5 +65,52 @@ void roll_list_of_each_class(tree_node_t *classes[], int num_classes) {
       printf("%-8d %-30s %-16s %-f\n", j, arr[j]->name, arr[j]->srn,
              arr[j]->cgpa);
     }
+  }
+}
+
+void get_gpa_distribution_for_a_class(tree_node_t *_class) {
+  if (_class == NULL) {
+    printf("Empty Classroom");
+  } else {
+    int total_students = get_total_number_of_nodes(_class);
+    tree_node_t *arr[total_students];
+    double xs[11];
+    double ys[11];
+    _Bool success;
+    int i = 0;
+    inorder(_class, arr, &i);
+
+    for (int j = 0; j < 11; j++) {
+      xs[j] = j;
+      ys[j] = 0;
+    }
+
+    for (int j = 0; j < total_students; j++) {
+      ys[(int)(arr[j]->cgpa)] += 1;
+    }
+
+    StartArenaAllocator();
+
+    RGBABitmapImageReference *canvasReference =
+        CreateRGBABitmapImageReference();
+    StringReference *errorMessage = CreateStringReference(L"", 0);
+    success = DrawScatterPlot(canvasReference, 600, 400, xs, 11, ys, 11,
+                              errorMessage);
+
+    if (success) {
+      size_t length;
+      ByteArray *pngdata = ConvertToPNG(canvasReference->image);
+      WriteToFile(pngdata, "distribution.png");
+      DeleteImage(canvasReference->image);
+      printf("\nOpen distribution.png to see the plot!\n");
+    } else {
+      fprintf(stderr, "Error: ");
+      for (int i = 0; i < errorMessage->stringLength; i++) {
+        fprintf(stderr, "%c", errorMessage->string[i]);
+      }
+      fprintf(stderr, "\n");
+    }
+
+    FreeAllocations();
   }
 }
